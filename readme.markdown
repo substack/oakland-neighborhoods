@@ -16,3 +16,7 @@ call their neighborhoods.
 The geojson in this repository was generating using the kml file at
 [http://www.designsinlight.com/oakland/neighborhoods.kml](http://www.designsinlight.com/oakland/neighborhoods.kml)
 as input using [togeojson](https://npmjs.org/package/togeojson).
+
+# other neighborhood maps
+
+* [maxogden/oakland-boundaries-geojson](https://github.com/maxogden/oakland-boundaries-geojson)
